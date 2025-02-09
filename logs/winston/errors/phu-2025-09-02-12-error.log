@@ -1,0 +1,12 @@
+{
+  errno: undefined,
+  code: 'ENOTFOUND',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.aro4g5b.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect database querySrv ENOTFOUND _mongodb._tcp.cluster0.aro4g5b.mongodb.net',
+  stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.aro4g5b.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)',
+  label: 'UM',
+  timestamp: '2025-02-09T06:02:09.360Z'
+}

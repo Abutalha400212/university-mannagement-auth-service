@@ -1,0 +1,12 @@
+{
+  message: '🛢 Database is connected Successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-28T16:54:34.255Z'
+}
+{
+  message: '⚡ Example app listening on port 5050',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-28T16:54:34.283Z'
+}

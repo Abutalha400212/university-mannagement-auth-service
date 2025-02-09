@@ -1,0 +1,110 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\.dc167d50950c7d0465904aaefffa0dc8eb504b31-audit.json",
+    "files": [
+        {
+            "date": 1727099228682,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-23-09-19-error.log",
+            "hash": "c8b2b8b5387e7cf8ad839f43e4f8a897f91566fe0f3e264c2aac01e1ce06f893"
+        },
+        {
+            "date": 1727100197364,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-23-09-20-error.log",
+            "hash": "c75e3bb6f9b6dc8eb7312e60cf3193b5717fb6892fe9afc8d594c55c58fcd977"
+        },
+        {
+            "date": 1727103606194,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-23-09-21-error.log",
+            "hash": "773baf10a06557970821378393288336575f66362d2244ae623b389e74fad00f"
+        },
+        {
+            "date": 1727151086501,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-24-09-10-error.log",
+            "hash": "c029250d02419aa1169c63ec541468ed12e75e99e2fe162f087498fb645f892f"
+        },
+        {
+            "date": 1727172597981,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-24-09-16-error.log",
+            "hash": "be4381e3a1bd1393dec4b85c4f05f912b57a58ede3701adf8ad8fcfd877aaa5f"
+        },
+        {
+            "date": 1727189992360,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-24-09-20-error.log",
+            "hash": "8414e50015b26f5e2ed292f631f66ded1df7e48bb85c5e441ae015bf2df637c3"
+        },
+        {
+            "date": 1727190431471,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-24-09-21-error.log",
+            "hash": "92d3b704dca0a502d68fa8f774851874a7b1e2f687779516bc76ee0c571ebcd3"
+        },
+        {
+            "date": 1727193683965,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-24-09-22-error.log",
+            "hash": "58c8d39ff130cbad4c2be5a1ca77cd7b3d3d398435944770d849da0f2b7722e9"
+        },
+        {
+            "date": 1727230028715,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-25-09-08-error.log",
+            "hash": "9a513e8eb80faebd8209ccaeab56dda28b4afd81c74f3cbbcccb59501d436aa1"
+        },
+        {
+            "date": 1727233396355,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-25-09-09-error.log",
+            "hash": "a73c2f37bc938063a973f516073e24aef766844012ce5208ab09b5cd8ea223f2"
+        },
+        {
+            "date": 1727236801406,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-25-09-10-error.log",
+            "hash": "0e1c7ed2dd384a68d6eee7f57ecf55f4eebbe37004ddafe4ac30bb9be9919ee1"
+        },
+        {
+            "date": 1727240470251,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-25-09-11-error.log",
+            "hash": "761327f023a467c8bf676c7f8723729f2af730ab7ae3fe1c563900c526e95fd7"
+        },
+        {
+            "date": 1727244009629,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-25-09-12-error.log",
+            "hash": "ee04b52e7a02edb07ca7bccf84abc6c8536651328b3d9bd5be85fd0c4f5ae8ad"
+        },
+        {
+            "date": 1727281807802,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-25-09-22-error.log",
+            "hash": "892f21b859f324d63067a7e4d1b73bf4e4eb680aac05f0932e5685465f2277b2"
+        },
+        {
+            "date": 1727283865595,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-25-09-23-error.log",
+            "hash": "8657f8a6780e5390769c774ae0057cc800dc6bc887829ba56cc4267428b6138a"
+        },
+        {
+            "date": 1727357535004,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-26-09-19-error.log",
+            "hash": "e23ad4a4146d408d53072b375c356ef5bc7518ebc532c3d7d60edb38397dd136"
+        },
+        {
+            "date": 1727362012292,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-26-09-20-error.log",
+            "hash": "a3151e9bcb649d2db9909de54c39430fe6454a753bf7cbeb5d9e23cbd5fc0c1a"
+        },
+        {
+            "date": 1727542473058,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-28-09-22-error.log",
+            "hash": "b207aaf524eabcceab57bc9ff1551b155c4219c75ca399373824feefae70d84f"
+        },
+        {
+            "date": 1727542925696,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-28-09-23-error.log",
+            "hash": "f37051943cee931634a3faa5fe2d601ed9574c4be100c1c376525f666631907a"
+        },
+        {
+            "date": 1728307168948,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\errors\\phu-2024-07-10-19-error.log",
+            "hash": "59977923eff2d67f32593d195817f9bb398a36765fab9ced0e3dfff90d60eff2"
+        }
+    ],
+    "hashType": "sha256"
+}

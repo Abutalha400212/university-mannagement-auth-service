@@ -1,0 +1,110 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\.769fe73a5c4baf98aa115b159dbea6098c4e4949-audit.json",
+    "files": [
+        {
+            "date": 1727099228634,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-23-09-19-success.log",
+            "hash": "0f9806f0ba8c0da73539341be419308606728d801c78de4156c557270d0f2fdd"
+        },
+        {
+            "date": 1727100197344,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-23-09-20-success.log",
+            "hash": "d026cab0938edb91646f3c3a0bf2ebfcd9b4064a05484397eb1e7eedc4c99e08"
+        },
+        {
+            "date": 1727103606184,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-23-09-21-success.log",
+            "hash": "a4e9c2f5116208a518d8ebb5b2e2b22b721bad097375046ecbdf68fb887b279a"
+        },
+        {
+            "date": 1727151086477,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-24-09-10-success.log",
+            "hash": "e884fca7e09ce89b975ecc8915113b3618c964da258ae164a7c9f7c006c3ecb2"
+        },
+        {
+            "date": 1727172597956,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-24-09-16-success.log",
+            "hash": "1dc64895479f49e53258dac1028e42c8c11af2b15ea4899bea571277855566b5"
+        },
+        {
+            "date": 1727189992350,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-24-09-20-success.log",
+            "hash": "c4ce509dc39f22e7bd7b6a861b18254f3ecbe3dcee1ad4253858d6d57a63f734"
+        },
+        {
+            "date": 1727190431458,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-24-09-21-success.log",
+            "hash": "b8a05b220c84c5f1c10faab4cee5f151d5e42d3c8f7e4db146ec8f361d92f7bf"
+        },
+        {
+            "date": 1727193683953,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-24-09-22-success.log",
+            "hash": "9c2a6768229c6e9c6171d9ffd023bccd65835f0059f0ed635a91e2867b11aa9b"
+        },
+        {
+            "date": 1727230028705,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-25-09-08-success.log",
+            "hash": "335c9130983580a6636fbb131c10fdc81eb4b4cf58574cd88b20075e471ec151"
+        },
+        {
+            "date": 1727233396341,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-25-09-09-success.log",
+            "hash": "0d2385f5d214f2cd6528c8b6cece1827324d7b58b589560d23bb8c467fd59f08"
+        },
+        {
+            "date": 1727236801392,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-25-09-10-success.log",
+            "hash": "9c31097eb8ffca940d0ac5402cc3294c0d50adfceb3c95aab2e27b192ee4a198"
+        },
+        {
+            "date": 1727240470239,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-25-09-11-success.log",
+            "hash": "308b45280f0220ab910cfe944c29ffdce65643b40f811ad11e96096c3a568b14"
+        },
+        {
+            "date": 1727244009618,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-25-09-12-success.log",
+            "hash": "09aae3a15da604e942cfaaaf3dd9715ac704f08548b2c79c827c35a5dfb0983f"
+        },
+        {
+            "date": 1727281807787,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-25-09-22-success.log",
+            "hash": "13dc7fa908a76dba75116755b8ee9bfd18ceeb52dc3624c0df87b6ee28ae46d2"
+        },
+        {
+            "date": 1727283865584,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-25-09-23-success.log",
+            "hash": "d6b658b56debf1126e283f399a0273b3eff393cadff661da331d78a55f483118"
+        },
+        {
+            "date": 1727357534993,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-26-09-19-success.log",
+            "hash": "687b8e5e684a1b6864cf295c425670853f29ae2a869821c0dc27a6fe98630af0"
+        },
+        {
+            "date": 1727362012281,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-26-09-20-success.log",
+            "hash": "1ad4664641236072ec667825bd9edcaa4e548b2a65f49b1ab485ad7126a099b7"
+        },
+        {
+            "date": 1727542473047,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-28-09-22-success.log",
+            "hash": "1adb2daf0de6a2a035f85d6737d849d504969811f09e0eb08a5956e152e3e8ff"
+        },
+        {
+            "date": 1727542925686,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-28-09-23-success.log",
+            "hash": "f7b958b9b8992bd17e1f051c43c5fb77c79ba9df6aec8f9800bde9e18610c286"
+        },
+        {
+            "date": 1728307168933,
+            "name": "C:\\Users\\abuta\\projects\\university-mannagement-auth-service\\logs\\winston\\successes\\phu-2024-07-10-19-success.log",
+            "hash": "4012fef855aaa0dc4a633c6db5ce331b10a51e71c63f6fdc0ec305b8e85cba18"
+        }
+    ],
+    "hashType": "sha256"
+}

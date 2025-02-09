@@ -1,0 +1,60 @@
+{
+  message: '🛢 Database is connected Successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-23T15:00:07.416Z'
+}
+{
+  message: '⚡ Example app listening on port 5050',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-23T15:00:07.434Z'
+}
+{
+  message: '🛢 Database is connected Successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-23T15:00:39.911Z'
+}
+{
+  message: '⚡ Example app listening on port 5050',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-23T15:00:39.929Z'
+}
+{
+  message: '🛢 Database is connected Successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-23T15:01:08.535Z'
+}
+{
+  message: '⚡ Example app listening on port 5050',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-23T15:01:08.560Z'
+}
+{
+  message: '🛢 Database is connected Successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-23T15:01:29.312Z'
+}
+{
+  message: '⚡ Example app listening on port 5050',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-23T15:01:29.330Z'
+}
+{
+  message: '🛢 Database is connected Successfully',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-23T15:50:07.983Z'
+}
+{
+  message: '⚡ Example app listening on port 5050',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2024-09-23T15:50:07.998Z'
+}
